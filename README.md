@@ -4,6 +4,9 @@ Este repositório contém versões diferentes do uso da ferramenta myoctocat, tr
 # Como contribuir?
 Você deve acessar o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para entender de que forma você pode contribuir para o nosso projeto e participar conosco.
 
+# Aprenda com outras experiências
+Você pode acompanhar as discussões e experiências de outras pessoas por [aqui](https://github.com/morgannadev/octogatos_da_comunidade/discussions/1).
+
 # Pessoas contribuidoras
 <a href="https://github.com/morgannadev/octogatos_da_comunidade/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=morgannadev/octogatos_da_comunidade&anon=0&columns=20&max=100" alt="Lista de pessoas contribuidoras"/>
