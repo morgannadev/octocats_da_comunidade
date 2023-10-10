@@ -7,5 +7,5 @@ Minha experiência: https://github.com/morgannadev/octogatos_da_comunidade/discu
 
 
 ## Letícia T.Hashimoto Ono (@letyhashimoto)
-<img src="https://imgur.com/a/oZe8rKe" alt="octocat preto, usando kimono japonês, com chinelinho japonês, segurando um notebook na mão, usando óculos vermelhos" width="200">
+<img src="https://i.imgur.com/Whizkc4.png" alt="octocat preto, usando kimono japonês, com chinelinho japonês, segurando um notebook na mão, usando óculos vermelhos" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246687
