@@ -38,5 +38,5 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246771
 
 ## Priscilla Trevizan (@priscillatrevizan)
-<img src="https://imgur.com/y7mRcpa" alt="octocat com cabelos alaranjados e divididos, e amarrados nas laterais, usando jaqueta cinza com ícone do GitHub e capuz, segurando um notebook aberto na mão." width="200">
+<img src="https://imgur.com/y7mRcpa.png" alt="octocat com cabelos alaranjados e divididos, e amarrados nas laterais, usando jaqueta cinza com ícone do GitHub e capuz, segurando um notebook aberto na mão." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7256987
