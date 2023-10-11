@@ -62,3 +62,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/g7T6E9h.png" alt="octocat moreno com cabelo de cor preta, com barba de cor preta, usando camiseta preto com ícone do GitHub, calça preta, segurando um notbook na mão, uma tatuagem colorida no braço direito." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257007
+
+## Priscilla Trevizan (@priscillatrevizan)
+<img src="https://imgur.com/y7mRcpa.png" alt="octocat com cabelos alaranjados e divididos, e amarrados nas laterais, usando jaqueta cinza com ícone do GitHub e capuz, segurando um notebook aberto na mão." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7256987
