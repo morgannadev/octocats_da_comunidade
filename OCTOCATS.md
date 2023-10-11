@@ -57,3 +57,8 @@ Minha experiência: https://github.com/morgannadev/octogatos_da_comunidade/discu
 
 <img src="https://i.imgur.com/NYLDkXd.png" alt="Octocat preto com cabelos castanhos escuros e mechas na cor do arco-íris, fazendo careta com um dos olhos fechados e a língua para fora. Veste um short vermelho, uma camisa cinza com estampa de arco-íris, tênis all-stars, brinco em uma das orelhas, pulseira em um dos braços com tatuagens coloridas. Segura um copo de suco com canudo em uma das mãos." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257017
+
+## Gustavo Parlandim (Gu-Parlandim)
+
+<img src="https://i.imgur.com/g7T6E9h.png" alt="octocat moreno com cabelo de cor preta, com barba de cor preta, usando camiseta preto com ícone do GitHub, calça preta, segurando um notbook na mão, uma tatuagem colorida no braço direito." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257007
