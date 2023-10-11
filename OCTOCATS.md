@@ -8,3 +8,7 @@ Minha experiência: https://github.com/morgannadev/octogatos_da_comunidade/discu
 ## Giane Mayumi
 <img src="https://i.imgur.com/nQtyutY.png" alt="octocat com cabelos vermelho escuro, usando uma roupa de mergulho, bermuda e uma bota azul, segurando um notebook na mão" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246622.
+
+## Pamela Rosales
+<img src="https://i.imgur.com/2qOlodZ.png" alt="octocat com cabelos escuros, usando um poncho peruano" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246651
