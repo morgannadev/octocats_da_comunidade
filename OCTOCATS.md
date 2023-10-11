@@ -37,6 +37,6 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 <img src="https://i.imgur.com/h934hJG.png" alt="octocat com cabelos roxos cutos e com um cavanhaque preto, usando blusa do GitHub, calça jeans e um tênis all star, segurando um celular na mão e usando um headphone vermelho na cabeça" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246771
 
-## Morganna Souza
+## MiD'Gh3st
 <img src="https://i.imgur.com/liPALSe.png" alt="octocat com acapacete, usando casaco, calça cinza e uma pantufa de castor, segurando o universo em sua mão" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257016
