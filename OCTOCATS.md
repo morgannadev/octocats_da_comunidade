@@ -66,3 +66,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Priscilla Trevizan (@priscillatrevizan)
 <img src="https://imgur.com/y7mRcpa.png" alt="octocat com cabelos alaranjados e divididos, e amarrados nas laterais, usando jaqueta cinza com ícone do GitHub e capuz, segurando um notebook aberto na mão." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7256987
+
+## Daniela Salles
+<img src="https://i.imgur.com/ZUdoDE7.png" alt="octocat roxo com cabelos castanhos curto, usando blusa do GitHub,usando uma bermuda preta, tênis all star e uma meia longa vermelha e branca, usando um headfone na cabeça " width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257027.
