@@ -9,8 +9,8 @@
 - Baixe a imagem ao final em seu computador;
 - Suba a imagem no site [imgur](https://imgur.com/upload);
 - Salve o link da imagem que o final seja `.png`;
-- Identifique o arquivo [OCTOGATOS.md](OCTOGATOS.md) no seu projeto;
-- Adicione a sua contribuição no arquivo [OCTOGATOS.md](OCTOGATOS.md). Você pode seguir o mesmo modelo do [primeiro item](https://github.com/morgannadev/octogatos_da_comunidade/blob/main/OCTOGATOS.md#morganna-giovanelli), ou seja, adicione o seu nome, a tag com a imagem apenas mudando o link no parâmetro "src" e a descrição da imagem no parâmetro "alt" para acessibilidade;
+- Identifique o arquivo [OCTOCATS.md](OCTOCATS.md) no seu projeto;
+- Adicione a sua contribuição no arquivo [OCTOCATS.md](OCTOCATS.md). Você pode seguir o mesmo modelo do [primeiro item](https://github.com/morgannadev/octogatos_da_comunidade/blob/main/OCTOGATOS.md#morganna-giovanelli), ou seja, adicione o seu nome, a tag com a imagem apenas mudando o link no parâmetro "src" e a descrição da imagem no parâmetro "alt" para acessibilidade;
 - Faça o seu comentário nas [discussões do projeto](https://github.com/morgannadev/octogatos_da_comunidade/discussions/1) contando sobre como foi a sua participação e o que você achou;
 - Copie o link e adicione na sua alteração;
 - Faça o commit com uma mensagem objetiva sobre a sua contribuição. Pode ser em português mesmo;
