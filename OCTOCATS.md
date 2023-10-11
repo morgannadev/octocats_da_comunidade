@@ -36,3 +36,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## João Victor Campos (@joaovictor1516)
 <img src="https://i.imgur.com/h934hJG.png" alt="octocat com cabelos roxos cutos e com um cavanhaque preto, usando blusa do GitHub, calça jeans e um tênis all star, segurando um celular na mão e usando um headphone vermelho na cabeça" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246771
+
+## Gustavo Parlandim (Gu-Parlandim)
+<img src="https://i.imgur.com/g7T6E9h.png" alt="octocat moreno com cabelo de cor preta, com barba de cor preta, usando camiseta preto com ícone do GitHub, calça preta, segurando um notbook na mão, uma tatuagem colorida no braço direito." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257007
