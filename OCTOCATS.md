@@ -28,3 +28,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/issues
 ## Ju Oliveira (purple_codes)
 <img src="https://i.imgur.com/5DnWxPm.png" alt="octocat com cabelos azul escuro, usando blusa do GitHub, calça jeans e um tênis all star, tomando um cafézinho na caneca do GitHUb" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246749
+
+## mvteus
+<img src="https://i.imgur.com/LsFgN50.png" alt="octocat com cabelo black power de cor castanho escuro, com cavanhaque de cor castanho escuro, usando camiseta preto com ícone do GitHub, calça jeans azul e um tênis all star, segurando um skate na mão, com capa azul, piercings no nariz, sombrancelha e na orelha, usando bandana roxa, lenço vermelho no pescoço, corrente dourada com sinal do dólar, cinto de couro e tatuagens no braço direito" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246757
