@@ -74,3 +74,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Matheus Marins(Mar0la)
 <img src="https://i.imgur.com/jZne8u1.png" alt="Tatuado usando allstar e segurando um notebook" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257092.
+
+## Amanda Martins Xavier (@pixelmandy)
+<img src="https://i.imgur.com/8ZfuMiJ.png" alt="octocat com cabelos cacheados pretos longos, usando jaqueta de moletom cinza do GitHub, calça jeans azul clara estilizada com rasgos, tênis all star, conjurando um buraco negro com uma das mãos, e usando um chapéu vermelho do GitHub" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257574
