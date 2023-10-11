@@ -48,6 +48,11 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 <img src="https://i.imgur.com/h934hJG.png" alt="octocat com cabelos roxos cutos e com um cavanhaque preto, usando blusa do GitHub, calça jeans e um tênis all star, segurando um celular na mão e usando um headphone vermelho na cabeça" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246771
 
+## Madalena Rocha
+
+<img src="https://imgur.com/yYu6RUe.png" alt="octocat cinza muito escuro de rosto pardo, olhos castanhos escuros e cabelos marrons escuros penteados em maria-chiquinha, usando roupa de astronauta" width="200">
+Minha experiência: https://github.com/morgannadev/octogatos_da_comunidade/discussions/1#discussioncomment-7253115.
+
 ## Angela Caldas (@sucodelarangela)
 
 <img src="https://i.imgur.com/NYLDkXd.png" alt="Octocat preto com cabelos castanhos escuros e mechas na cor do arco-íris, fazendo careta com um dos olhos fechados e a língua para fora. Veste um short vermelho, uma camisa cinza com estampa de arco-íris, tênis all-stars, brinco em uma das orelhas, pulseira em um dos braços com tatuagens coloridas. Segura um copo de suco com canudo em uma das mãos." width="200">
