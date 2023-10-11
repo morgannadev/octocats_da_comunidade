@@ -9,5 +9,5 @@ Você pode acompanhar as discussões e experiências de outras pessoas por [aqui
 
 # Pessoas contribuidoras
 <a href="https://github.com/morgannadev/octogatos_da_comunidade/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=morgannadev/octogatos_da_comunidade&anon=0&columns=20&max=100" alt="Lista de pessoas contribuidoras"/>
+  <img src="https://contrib.rocks/image?repo=morgannadev/octogatos_da_comunidade" alt="Lista de pessoas contribuidoras"/>
 </a>
