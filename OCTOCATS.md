@@ -16,3 +16,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Geovani França
 <img src="https://i.imgur.com/dtWl1WM.png" alt="octocat com cabelos loiros no estilo nordico, barba com a mesma cor, blusa de frio cinza, short preto pequenininho, segurando um café na mão, e de pantufa de esquilos" width="200">
 Um pouco da minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246664
+
+## Letícia T.Hashimoto Ono (@letyhashimoto)
+<img src="https://imgur.com/a/oZe8rKe" alt="octocat preto, usando kimono japonês, com chinelinho japonês, segurando um notebook na mão, usando óculos vermelhos" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7246687
