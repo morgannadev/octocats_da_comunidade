@@ -7,7 +7,7 @@ Minha experiência: https://github.com/morgannadev/octogatos_da_comunidade/discu
 
 <img src="https://i.imgur.com/LSCZgpS.png" alt="octocat com cabelos roxos, usando casaco preto, calça preta e um tênis all star, segurando um milkshake na mão" width="200">
 
-## Gustavo Almeida
+## Gustavo Almeida (@systemguuh)
 
 <img src="https://i.imgur.com/Ih664Gc.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7299399.
