@@ -7,11 +7,6 @@ Minha experiência: https://github.com/morgannadev/octogatos_da_comunidade/discu
 
 <img src="https://i.imgur.com/LSCZgpS.png" alt="octocat com cabelos roxos, usando casaco preto, calça preta e um tênis all star, segurando um milkshake na mão" width="200">
 
-## Gustavo Almeida (@systemguuh)
-
-<img src="https://i.imgur.com/Ih664Gc.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="200">
-Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7299399.
-
 ## Giane Mayumi
 
 <img src="https://i.imgur.com/nQtyutY.png" alt="octocat com cabelos vermelho escuro, usando uma roupa de mergulho, bermuda e uma bota azul, segurando um notebook na mão" width="200">
@@ -83,3 +78,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Amanda Martins Xavier (@pixelmandy)
 <img src="https://i.imgur.com/8ZfuMiJ.png" alt="octocat com cabelos cacheados pretos longos, usando jaqueta de moletom cinza do GitHub, calça jeans azul clara estilizada com rasgos, tênis all star, conjurando um buraco negro com uma das mãos, e usando um chapéu vermelho do GitHub" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257574
+
+## Gustavo Almeida (@systemguuh)
+
+<img src="https://i.imgur.com/Ih664Gc.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7299399.
