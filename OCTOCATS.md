@@ -86,3 +86,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Amanda S. Paula Pereira (@akiedimais)
 <img src="https://i.imgur.com/p9wGjaN.png" alt="octocat preto com cabelos brancos cacheados, usando armadura e uma coroa, com uma espada na mão" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7299398
+
+## Lucas Jahchan (@lucaskja)
+<img src="https://i.imgur.com/taPSthO.png" alt="octocat saem cabelo, usando camisa com suspensórios, calça cargo preta e um tênis all star, segurando um mocha latte na mão e usando um boné de ursinho" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7320486
