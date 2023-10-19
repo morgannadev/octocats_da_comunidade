@@ -98,3 +98,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Lucas Jahchan (@lucaskja)
 <img src="https://i.imgur.com/taPSthO.png" alt="octocat saem cabelo, usando camisa com suspensórios, calça cargo preta e um tênis all star, segurando um mocha latte na mão e usando um boné de ursinho" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7320486
+
+## Catarina Macedo (@cat-macedo)
+
+<img src="https://i.imgur.com/AkVFNmQ.png" alt="octocat sem cabelos, usando blusão preto e branco, calça jeans, um adidas, uma bolsa preta e vermelha e uma coroa de flores" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7332086 
