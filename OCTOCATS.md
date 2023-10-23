@@ -103,3 +103,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/AkVFNmQ.png" alt="octocat sem cabelos, usando blusão preto e branco, calça jeans, um adidas, uma bolsa preta e vermelha e uma coroa de flores" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7332086 
+
+## Alex Silva (@AlexJBSilva)
+
+<img src="https://i.imgur.com/DXGTRhV.png" alt="octocat com cabelos pretos, barba preta, usando óculos escuro, blusa verde, calça jeans e botas, segurando um notebook cinza na mão esquerda." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7353788.
