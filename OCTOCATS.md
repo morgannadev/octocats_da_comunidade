@@ -108,3 +108,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/DXGTRhV.png" alt="octocat com cabelos pretos, barba preta, usando óculos escuro, blusa verde, calça jeans e botas, segurando um notebook cinza na mão esquerda." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7353788.
+
+<img src="https://i.imgur.com/ZIXPzVK.png" alt="octocat ventriloco de moicano usando meia com chinelo gravata e bandana, olhos de nausea" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7412388.
+
