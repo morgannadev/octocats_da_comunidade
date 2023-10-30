@@ -108,3 +108,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/DXGTRhV.png" alt="octocat com cabelos pretos, barba preta, usando óculos escuro, blusa verde, calça jeans e botas, segurando um notebook cinza na mão esquerda." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7353788.
+
+## Fernanda Souza
+
+<img src="https://i.imgur.com/ExHigXP.png" alt="octocat com cabelos castanhos, usando blusa do GitHub preta, calça preta e uma bota preta com detalhes verdes, segurando um controle de vídeogame na mão e usando um óculos escuro preto cabeça" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7417666.
