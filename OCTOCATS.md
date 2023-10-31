@@ -116,3 +116,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Paulo Ricardo (@Engcompaulo)
 <img src="https://i.imgur.com/dp4hJ6e.png" alt="octocat com cabelos pretos, usando óculos dourados, jaleco branco, calça jeans e botas, segurando um copo de café na mão esquerda." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7417817
+
+## GabsVentorim (@GabsVentorim)
+<img src="https://i.imgur.com/aNnsQIC.png" alt="octocat com cabelos castanhos, usando moletom cinza, tênis preto, meias vermelhas e um chapéu cinza." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7430271.
