@@ -118,7 +118,5 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7417817
 
 ## Miguel Puga (@MiguelPuga)
-
 <img src="https://i.imgur.com/ZIXPzVK.png" alt="octocat ventriloco de moicano usando meia com chinelo gravata e bandana, olhos de nausea" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7412388.
-
