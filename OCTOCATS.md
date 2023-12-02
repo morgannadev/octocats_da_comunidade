@@ -120,3 +120,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 ## Miguel Puga (@MiguelPuga)
 <img src="https://i.imgur.com/ZIXPzVK.png" alt="octocat ventriloco de moicano usando meia com chinelo gravata e bandana, olhos de nausea" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7412388.
+
+## GabsVentorim (@GabsVentorim)
+<img src="https://i.imgur.com/aNnsQIC.png" alt="octocat com cabelos castanhos, usando moletom cinza, tênis preto, meias vermelhas e um chapéu cinza." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7430271.
+
