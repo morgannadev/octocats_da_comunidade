@@ -125,3 +125,6 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 <img src="https://i.imgur.com/aNnsQIC.png" alt="octocat com cabelos castanhos, usando moletom cinza, tênis preto, meias vermelhas e um chapéu cinza." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7430271.
 
+## MaiaMedeiros (@MaiaMedeiros)
+<img src="https://i.imgur.com/LJ4rJBr.png" alt="octocat sem cabelo, usando uma gravata." width="200">
+Minha experiência: ...
