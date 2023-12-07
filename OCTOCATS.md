@@ -68,34 +68,42 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257007
 
 ## Priscilla Trevizan (@priscillatrevizan)
+
 <img src="https://imgur.com/y7mRcpa.png" alt="octocat com cabelos alaranjados e divididos, e amarrados nas laterais, usando jaqueta cinza com ícone do GitHub e capuz, segurando um notebook aberto na mão." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7256987
 
 ## Daniela Salles
+
 <img src="https://i.imgur.com/ZUdoDE7.png" alt="octocat roxo com cabelos castanhos curto, usando blusa do GitHub,usando uma bermuda preta, tênis all star e uma meia longa vermelha e branca, usando um headfone na cabeça " width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257027.
 
 ## Matheus Marins(Mar0la)
+
 <img src="https://i.imgur.com/jZne8u1.png" alt="Tatuado usando allstar e segurando um notebook" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257092.
 
 ## Amanda Martins Xavier (@pixelmandy)
+
 <img src="https://i.imgur.com/8ZfuMiJ.png" alt="octocat com cabelos cacheados pretos longos, usando jaqueta de moletom cinza do GitHub, calça jeans azul clara estilizada com rasgos, tênis all star, conjurando um buraco negro com uma das mãos, e usando um chapéu vermelho do GitHub" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7257574
 
 ## Victor Jordan (@victorjordan95)
+
 <img src="https://i.imgur.com/Mk2Ejjm.png" alt="octocat com cabelos castanho escuro, usando jaqueta de moletom cinza do GitHub, calça jeans preto, tênis all star" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7292148
 
 ## Amanda S. Paula Pereira (@akiedimais)
+
 <img src="https://i.imgur.com/p9wGjaN.png" alt="octocat preto com cabelos brancos cacheados, usando armadura e uma coroa, com uma espada na mão" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7299398
 
 ## Gustavo Almeida (@systemguuh)
+
 <img src="https://i.imgur.com/Ih664Gc.png" alt="octocat com cabelo branco, usando uma blusa branca, calça preta, allstar no pé e uma galáxia na mão" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7299399.
 
 ## Lucas Jahchan (@lucaskja)
+
 <img src="https://i.imgur.com/taPSthO.png" alt="octocat saem cabelo, usando camisa com suspensórios, calça cargo preta e um tênis all star, segurando um mocha latte na mão e usando um boné de ursinho" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7320486
 
@@ -110,21 +118,26 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7353788.
 
 ## Fernanda Souza
+
 <img src="https://i.imgur.com/ExHigXP.png" alt="octocat com cabelos castanhos, usando blusa do GitHub preta, calça preta e uma bota preta com detalhes verdes, segurando um controle de vídeogame na mão e usando um óculos escuro preto cabeça" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7417666.
 
 ## Paulo Ricardo (@Engcompaulo)
+
 <img src="https://i.imgur.com/dp4hJ6e.png" alt="octocat com cabelos pretos, usando óculos dourados, jaleco branco, calça jeans e botas, segurando um copo de café na mão esquerda." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7417817
 
 ## Miguel Puga (@MiguelPuga)
+
 <img src="https://i.imgur.com/ZIXPzVK.png" alt="octocat ventriloco de moicano usando meia com chinelo gravata e bandana, olhos de nausea" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7412388.
 
 ## GabsVentorim (@GabsVentorim)
+
 <img src="https://i.imgur.com/aNnsQIC.png" alt="octocat com cabelos castanhos, usando moletom cinza, tênis preto, meias vermelhas e um chapéu cinza." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7430271.
 
 ## MaiaMedeiros (@MaiaMedeiros)
-<img src="https://i.imgur.com/LJ4rJBr.png" alt="octocat sem cabelo, usando uma gravata." width="200">
-Minha experiência: ...
+
+<img src="https://i.imgur.com/5RwgIN7.png" alt="octocat com corte de cabelo moicano, com piercing na orelha, óculos de mergulho, lenço petit poá vermelho e camisa pride." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7783289
