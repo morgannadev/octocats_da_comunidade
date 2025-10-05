@@ -119,7 +119,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 ## Fernanda Souza
 
-<img src="https://i.imgur.com/ExHigXP.png" alt="octocat com cabelos castanhos, usando blusa do GitHub preta, calça preta e uma bota preta com detalhes verdes, segurando um controle de vídeogame na mão e usando um óculos escuro preto cabeça" width="200">
+<img src="https://i.imgur.com/Yhqyhlt.png" alt="octocat com cabelos crespos castanhos, piscando o olho direito, com a língua pra fora como em uma careta 'legal', piercing no septo, usando colete marrom, calça e botas azuis, segurando um panda de pelúcia" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7417666.
 
 ## Paulo Ricardo (@Engcompaulo)
