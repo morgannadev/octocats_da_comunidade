@@ -10,7 +10,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 ## Bugs
 
-<img src="https://i.imgur.com/LSCZgpS.png" alt="octocat com cabelos roxos, usando casaco preto, calça preta e um tênis all star, segurando um milkshake na mão" width="200">
+<img src="https://imgur.com/g4SVJZa.png" alt="octocat com cabelos castanho, usando casaco preto, calça preta e um tênis all star, segurando um pincel com tinta roxa na mão esquerda." width="200">
 
 ## Giane Mayumi
 
