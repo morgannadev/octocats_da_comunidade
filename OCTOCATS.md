@@ -141,3 +141,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/5RwgIN7.png" alt="octocat com corte de cabelo moicano, com piercing na orelha, óculos de mergulho, lenço petit poá vermelho e camisa pride." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7783289
+
+## Andrey Blazejuk (@ablazejuk)
+
+<img src="https://i.imgur.com/BmDM1ET.png" alt="octocat com corte de cabelo moicano, de fone de ouvido, óculos escuros, tênis all-star, camisa e bermuda pretas, segurando um skate azul." width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14646311
