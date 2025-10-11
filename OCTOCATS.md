@@ -69,8 +69,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 ## Priscilla Trevizan (@priscillatrevizan)
 
-<img src="https://imgur.com/y7mRcpa.png" alt="octocat com cabelos alaranjados e divididos, e amarrados nas laterais, usando jaqueta cinza com ícone do GitHub e capuz, segurando um notebook aberto na mão." width="200">
-Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-7256987
+<img src="https://imgur.com/m4W5STz.png" alt="octocat com cabelos alaranjados amarrados em um rabo de cavalo despojado, piercing na orelha, usando jaqueta cinza com capuz, calça jeans azul e tenis estilo all star. A octocat da Pri, segura um bubble tea alaranjado na mão."width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14651811
 
 ## Daniela Salles
 
