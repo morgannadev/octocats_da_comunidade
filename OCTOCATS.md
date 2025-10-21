@@ -146,3 +146,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/BmDM1ET.png" alt="octocat com corte de cabelo moicano, de fone de ouvido, óculos escuros, tênis all-star, camisa e bermuda pretas, segurando um skate azul." width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14646311
+
+## Leticia @levxyca
+
+<img src="https://imgur.com/a/6YGCXju.png" alt="octocat com touca de panda, usando uma jaqueta preta, bermuda preta e pantufa de garrinhas preta" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14741017
