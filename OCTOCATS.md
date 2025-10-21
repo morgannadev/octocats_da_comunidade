@@ -149,5 +149,5 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 ## Leticia @levxyca
 
-<img src="https://imgur.com/a/6YGCXju.png" alt="octocat com touca de panda, usando uma jaqueta preta, bermuda preta e pantufa de garrinhas preta" width="200">
+<img src="https://i.imgur.com/49a0vVc.png" alt="octocat com touca de panda, usando uma jaqueta preta, bermuda preta e pantufa de garrinhas preta" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14741017
