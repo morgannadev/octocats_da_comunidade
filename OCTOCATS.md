@@ -151,3 +151,9 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/49a0vVc.png" alt="octocat com touca de panda, usando uma jaqueta preta, bermuda preta e pantufa de garrinhas preta" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14741017
+
+## Ana Maria @ana-maria-silva
+
+<img src="https://i.imgur.com/hJHdjEm.png" alt="octocat com cabelos castanhos, usando a camiseta do Github, uma calça jeans, com uma capa azul e all star, segurando uma xícara de café" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14746196
+
