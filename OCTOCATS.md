@@ -151,3 +151,8 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 
 <img src="https://i.imgur.com/49a0vVc.png" alt="octocat com touca de panda, usando uma jaqueta preta, bermuda preta e pantufa de garrinhas preta" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14741017
+
+## Carol Donadel (@caroldonadel)
+
+<img src="https://i.imgur.com/wky3sPp.png" alt="octocat com cabelo curto e encaracolado, piercings no nariz e sobrancelha, usando jardineira, tênis, uma bolsa transversal e segurando uma xícara de café" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14746143
