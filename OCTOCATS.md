@@ -157,3 +157,7 @@ Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discus
 <img src="https://i.imgur.com/hJHdjEm.png" alt="octocat com cabelos castanhos, usando a camiseta do Github, uma calça jeans, com uma capa azul e all star, segurando uma xícara de café" width="200">
 Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14746196
 
+## Carol Donadel (@caroldonadel)
+
+<img src="https://i.imgur.com/wky3sPp.png" alt="octocat com cabelo curto e encaracolado, piercings no nariz e sobrancelha, usando jardineira, tênis, uma bolsa transversal e segurando uma xícara de café" width="200">
+Minha experiência: https://github.com/morgannadev/octocats_da_comunidade/discussions/1#discussioncomment-14746143
